@@ -1,0 +1,6 @@
+{
+  "name": "Cloudflare Clean IP Finder",
+  "description": "High-performance multi-threaded scanner to find and test clean Cloudflare IPv4 addresses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
